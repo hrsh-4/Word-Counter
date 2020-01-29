@@ -1,0 +1,1 @@
+# ATG_WORD_COUNTER
